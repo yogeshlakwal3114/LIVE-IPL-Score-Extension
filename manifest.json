@@ -1,0 +1,11 @@
+{
+    "name":"IPL Score Board",
+    "version":"1.0.0",
+    "description":"Best extension for Know Ipl Score",
+    "manifest_version":3,
+    "author": "Yogesh Lakwal",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IPL Score Board"
+    }
+}
